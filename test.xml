@@ -1,0 +1,11 @@
+<Module>
+<ModulePrefs title=”Custom Gadget“/>
+<Content type=”html“>
+<script src="https://web.aidenbot.com/lib/bot.js"></script>
+<script>
+  initDifferentBot({
+    ref: 'SIyYVFf7tAfCk8Op66FHytIvPWe2'
+  });
+</script>
+</Content>
+</Module>
