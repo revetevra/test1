@@ -1,0 +1,24 @@
+<script src="https://web.aidenbot.com/lib/bot.js"></script>
+<script>
+initDifferentBot({
+ref: 'SIyYVFf7tAfCk8Op66FHytIvPWe2'
+});
+</script><html>
+<head>
+</head>
+<body bgcolor="red"><table cellpadding="22" border="0">
+<tr><td bgcolor="#EFFF5F">
+<p>
+<font size="+2"><b><font color="#3303FF"><</font></b></font>
+<font color="#790431"><
+</font></p>
+<script src="https://web.aidenbot.com/lib/bot.js"></script>
+<script>
+initDifferentBot({
+ref: 'SIyYVFf7tAfCk8Op66FHytIvPWe2'
+});
+</script>
+
+<p>&nbsp;</p></td></tr>
+</table></body>
+</html>
